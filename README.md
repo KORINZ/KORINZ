@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KORINZ
+- 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 111611023+KORINZ@users.noreply.github.com
