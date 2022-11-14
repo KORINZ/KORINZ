@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 - 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)](https://www.python.org/downloads/)
 - 📫 How to reach me: 111611023+KORINZ@users.noreply.github.com
 
 <!---
