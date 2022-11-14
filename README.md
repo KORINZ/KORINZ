@@ -3,7 +3,7 @@
 - 👀 I’m interested in machine learning with Python
 - 🌱 I’m currently learning [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)](https://www.python.org/downloads/)
 - 📫 How to reach me: colinzhangme (Google Account)
-- 🌐Github Perssonal Pages (under construction): https://korinz.github.io
+- 🌐 Github Perssonal Pages (under construction): https://korinz.github.io
 
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
