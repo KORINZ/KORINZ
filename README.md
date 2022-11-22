@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url] <img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>
+[![LinkedIn][linkedin-shield]][linkedin-url] [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>](https://ja.wikipedia.org/wiki/Nyan_Cat)
 
 - 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
