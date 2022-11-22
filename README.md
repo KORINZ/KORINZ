@@ -28,14 +28,14 @@
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
 🛠️ 
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout&logo=latex&logoColor=white)](https://www.overleaf.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=popout&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout-square&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout-square&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout-square&logo=latex&logoColor=white)](https://www.overleaf.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository!!!
