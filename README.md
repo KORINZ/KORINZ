@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)](https://www.python.org/downloads/)
 - 📫 How to reach me: colinzhangme (Google Account)
 - 🌐 Github Personal Website (under construction): https://korinz.github.io
-- 📖 Reading List: 
+- 📖 Python Reading List: 
   - <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/ref=sr_1_1?crid=TBO5KSQB4NXJ&keywords=Beyond+the+Basic+Stuff+with+Python%3A+Best+Practices+for+Writing+Clean+Code&qid=1669101277&sprefix=beyond+the+basic+stuff+with+python+best+practices+for+writing+clean+code%2Caps%2C208&sr=8-1)</sub>
   - <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/ref=sr_1_13?crid=16O4G5GCA48ST&keywords=python&qid=1669101048&sprefix=python%2Caps%2C219&sr=8-13)</sub>
   - <sub>[Impractical Python Projects: Playful Programming Activities to Make You Smarter](https://www.amazon.com/Impractical-Python-Projects-Programming-Activities/dp/159327890X/ref=sr_1_1?crid=3A5F146M9HNWO&keywords=Impractical+Python+Projects%3A+Playful+Programming+Activities+to+Make+You+Smarter&qid=1669101334&sprefix=impractical+python+projects+playful+programming+activities+to+make+you+smarter%2Caps%2C217&sr=8-1)</sub>
