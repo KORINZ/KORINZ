@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
 - 🌱 I’m currently learning [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)](https://www.python.org/downloads/)
-- 📫 How to reach me: `colinzhangme` (Google Account)
+- 📫 How to reach me: `colinzhangme` (Gmail)
 - 🌐 Github Personal Website (under construction): https://korinz.github.io
 
 <details>
