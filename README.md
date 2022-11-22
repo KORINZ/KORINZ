@@ -14,6 +14,7 @@
 - [ ] <sub>[Impractical Python Projects: Playful Programming Activities to Make You Smarter](https://www.amazon.com/Impractical-Python-Projects-Programming-Activities/dp/159327890X/)</sub>
 - [ ] <sub>[Real-World Python: A Hacker's Guide to Solving Problems with Code](https://www.amazon.com/gp/product/1718500629/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER/)</sub>
 - [ ] <sub>[Algorithmic Thinking: A Problem-Based Introduction](https://www.amazon.com/gp/product/1718500807/ref=ox_sc_saved_image_5?smid=ATVPDKIKX0DER/)</sub>
+- [ ] <sub>[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)</sub>
 - [ ] <sub>[Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/)</sub>
 - [ ] <sub>[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/)</sub>
 - [x] <sub>[Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)</sub>
