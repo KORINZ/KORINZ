@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)
+- 🌱 I’m currently learning [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 - 📫 How to reach me: `colinzhangme` (Gmail)
 - 🌐 Github Personal Website (🏗️): https://korinz.github.io
 
@@ -23,7 +23,7 @@
 - [ ] <sub>[山女日記](https://www.amazon.co.jp/%E5%B1%B1%E5%A5%B3%E6%97%A5%E8%A8%98-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%B9%8A-%E3%81%8B%E3%81%AA%E3%81%88/dp/4344425162/)</sub>
 </details>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository!!!
