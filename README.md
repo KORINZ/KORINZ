@@ -37,9 +37,6 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
-<!---
-[![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=popout&logo=octave&logoColor=fcd683)](https://octave.org/)
---->
 
 🎮 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout&logo=steam&logoColor=white)](https://store.steampowered.com/)
