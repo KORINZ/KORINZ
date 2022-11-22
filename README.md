@@ -25,8 +25,6 @@
 - [ ] <sub>[山女日記](https://www.amazon.co.jp/%E5%B1%B1%E5%A5%B3%E6%97%A5%E8%A8%98-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%B9%8A-%E3%81%8B%E3%81%AA%E3%81%88/dp/4344425162/)</sub>
 </details>
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
-
 🛠️ 
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout-square&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
@@ -40,6 +38,19 @@
 <!---
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=popout-square&logo=octave&logoColor=fcd683)](https://octave.org/)
 --->
+
+🎮 
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
+[![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=popout-square&logo=battle.net&logoColor=white)](https://www.blizzard.com/)
+[![Switch](https://img.shields.io/badge/Switch-E60012?style=popout-square&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
+[![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout-square&logo=playstation&logoColor=white)](https://store.playstation.com/)
+
+🔮 
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout-square&logo=swift&logoColor=white)](https://www.apple.com/swift/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository!!!
