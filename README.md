@@ -37,7 +37,9 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout-square&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
+<!---
 [![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=popout-square&logo=octave&logoColor=fcd683)](https://octave.org/)
+--->
 
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository!!!
