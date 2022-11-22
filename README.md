@@ -1,4 +1,5 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] <img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>
+
 - 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
 - 🌱 I’m currently learning [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)](https://www.python.org/downloads/)
@@ -20,10 +21,8 @@
 - [x] <sub>[Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)</sub>
 </details>
 
-
 <!---
-KORINZ/KORINZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+KORINZ/KORINZ is a ✨ special ✨ repository!!!
 --->
 
 <!-- MARKDOWN LINKS & IMAGES -->
