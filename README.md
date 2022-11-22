@@ -25,6 +25,8 @@
 - [ ] <sub>[山女日記](https://www.amazon.co.jp/%E5%B1%B1%E5%A5%B3%E6%97%A5%E8%A8%98-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%B9%8A-%E3%81%8B%E3%81%AA%E3%81%88/dp/4344425162/)</sub>
 </details>
 
+---
+
 🛠️ 
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
@@ -48,6 +50,8 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+---
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
