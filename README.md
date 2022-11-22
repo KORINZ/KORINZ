@@ -26,29 +26,28 @@
 </details>
 
 🛠️ 
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout-square&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout-square&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout-square&logo=latex&logoColor=white)](https://www.overleaf.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout-square&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout&logo=latex&logoColor=white)](https://www.overleaf.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 <!---
-[![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=popout-square&logo=octave&logoColor=fcd683)](https://octave.org/)
+[![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=popout&logo=octave&logoColor=fcd683)](https://octave.org/)
 --->
 
 🎮 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
-[![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=popout-square&logo=battle.net&logoColor=white)](https://www.blizzard.com/)
-[![Switch](https://img.shields.io/badge/Switch-E60012?style=popout-square&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
-[![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout-square&logo=playstation&logoColor=white)](https://store.playstation.com/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout&logo=steam&logoColor=white)](https://store.steampowered.com/)
+[![Switch](https://img.shields.io/badge/Switch-E60012?style=popout&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
+[![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout&logo=playstation&logoColor=white)](https://store.playstation.com/)
 
 🔮 
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout-square&logo=swift&logoColor=white)](https://www.apple.com/swift/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
