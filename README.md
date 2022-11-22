@@ -7,7 +7,7 @@
 - 🌐 Github Personal Website: [`https://korinz.github.io`](https://korinz.github.io) 🏗️
 
 <details open>
-  <summary>📖 Reading List (<b>click to collapse or expand</b>👈) </summary>
+  <summary>📖 Reading List (<b>Click to <i>collapse</i> or <i>expand</i></b>👈) </summary>
 
 - [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
 - [ ] <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/)</sub>
