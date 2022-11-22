@@ -6,7 +6,7 @@
 - 🌐 Github Personal Website (under construction): https://korinz.github.io
 
 <details>
-  <summary>📖 Python Reading List (click here) </summary>
+  <summary>📖 Python Reading List (<b>click here</b>👈) </summary>
 
 - [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
 - [ ] <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/)</sub>
