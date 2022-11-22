@@ -6,6 +6,8 @@
 - 📫 How to reach me: `colinzhangme`at`gmail`
 - 🌐 Github Personal Website: [`https://korinz.github.io`](https://korinz.github.io) 🏗️
 
+---
+
 <details open>
   <summary>📖 Reading List (<b>Click to <i>collapse</i> or <i>expand</i></b>👈) </summary>
 
