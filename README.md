@@ -21,6 +21,8 @@
 - [x] <sub>[Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)</sub>
 </details>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ)
+
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository!!!
 --->
