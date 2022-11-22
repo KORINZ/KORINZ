@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Colin (コリン)
 - 👀 I’m interested in machine learning with Python
 - 🌱 I’m currently learning [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-- 📫 How to reach me: `colinzhangme` (Gmail)
+- 📫 How to reach me: `colinzhangme` ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=popout&logo=gmail&logoColor=white)
 - 🌐 Github Personal Website (🏗️): https://korinz.github.io
 
 <details>
