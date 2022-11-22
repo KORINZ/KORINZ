@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>](https://ja.wikipedia.org/wiki/Nyan_Cat)
 
 - 👋 Hi, I’m Colin (コリン)
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in **machine learning**
 - 🌱 I’m currently learning [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 - 📫 How to reach me: `colinzhangme`at`gmail`
 - 🌐 Github Personal Website: [`https://korinz.github.io`](https://korinz.github.io) 🏗️
@@ -9,7 +9,7 @@
 ---
 
 <details open>
-  <summary>📖 Reading List (<b>Click to <i>collapse</i> or <i>expand</i></b>👈) </summary>
+  <summary>📖 <b>Reading List</b> (<b>Click to <i>collapse</i> or <i>expand</i></b>👈) </summary>
 
 - [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
 - [ ] <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/)</sub>
