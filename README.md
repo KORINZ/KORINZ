@@ -11,9 +11,7 @@
 <details open>
   <summary>📖 <b>Reading List</b> (<b>Click here to <i>collapse</i> or <i>expand</i></b>👈) </summary>
 
-- [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
 - [ ] <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/)</sub>
-- [x] <sub>[Python One-Liners: Write Concise, Eloquent Python Like a Professional](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505/)</sub>
 - [ ] <sub>[Impractical Python Projects: Playful Programming Activities to Make You Smarter](https://www.amazon.com/Impractical-Python-Projects-Programming-Activities/dp/159327890X/)</sub>
 - [ ] <sub>[Real-World Python: A Hacker's Guide to Solving Problems with Code](https://www.amazon.com/gp/product/1718500629/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER/)</sub>
 - [ ] <sub>[Algorithmic Thinking: A Problem-Based Introduction](https://www.amazon.com/gp/product/1718500807/ref=ox_sc_saved_image_5?smid=ATVPDKIKX0DER/)</sub>
@@ -25,6 +23,13 @@
 - [ ] <sub>[山女日記](https://www.amazon.co.jp/%E5%B1%B1%E5%A5%B3%E6%97%A5%E8%A8%98-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%B9%8A-%E3%81%8B%E3%81%AA%E3%81%88/dp/4344425162/)</sub>
 - [x] <sub>[容疑者Xの献身](https://www.amazon.co.jp/%E5%AE%B9%E7%96%91%E8%80%85X%E3%81%AE%E7%8C%AE%E8%BA%AB-%E6%96%87%E6%98%A5%E6%96%87%E5%BA%AB-%E6%9D%B1%E9%87%8E-%E5%9C%AD%E5%90%BE/dp/4167110121/)</sub>
 - [x] <sub>[白夜行](https://www.amazon.co.jp/%E7%99%BD%E5%A4%9C%E8%A1%8C-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%87%E5%BA%AB-%E6%9D%B1%E9%87%8E-%E5%9C%AD%E5%90%BE/dp/4087474399/)</sub>
+</details>
+
+<details>
+  <summary>📚 <b>Reading List Archive</b> (<b>Click here to <i>collapse</i> or <i>expand</i></b>👈) </summary>
+
+- [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
+- [x] <sub>[Python One-Liners: Write Concise, Eloquent Python Like a Professional](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505/)</sub>
 </details>
 
 ---
