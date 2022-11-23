@@ -34,6 +34,8 @@
 
 ---
 
+#### Tools, Game Platforms, and Future Learning Plans
+
 🛠️ 
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
