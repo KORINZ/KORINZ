@@ -34,7 +34,7 @@
 
 ---
 
-#### Tools, Game Platforms, and Future Learning Plans
+#### Tools, Gaming Platforms, and Future Learning Plans
 
 🛠️ 
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
