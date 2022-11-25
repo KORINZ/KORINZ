@@ -59,6 +59,16 @@
 
 ---
 
+#### Learning Python 3: Useful Resources
+
+- <sub>[Python Official Documentation](https://docs.python.org/3/)</sub>
+- <sub>[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)</sub>
+- <sub>[Python HOWTOs](https://docs.python.org/3/howto/index.html)</sub>
+- <sub>[Python Built-in Functions](https://docs.python.org/3/library/functions.html)</sub>
+- <sub>[Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)</sub>
+
+---
+
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
 <!---
