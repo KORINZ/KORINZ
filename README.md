@@ -65,6 +65,7 @@
 - <sub>[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)</sub>
 - <sub>[Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)</sub>
 - <sub>[Python Built-in Functions](https://docs.python.org/3/library/functions.html)</sub>
+- <sub>[collections — Container datatypes](https://docs.python.org/3/library/collections.html)</sub>
 - <sub>[Python HOWTOs](https://docs.python.org/3/howto/index.html)</sub>
 
 ---
