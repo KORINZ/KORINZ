@@ -59,7 +59,7 @@
 
 ---
 
-#### Learning Python 3: Useful Official Resources
+#### Learning Python 3: Official Resources
 
 - <sub>[Python Documentation](https://docs.python.org/3/)</sub>
 - <sub>[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)</sub>
