@@ -62,6 +62,7 @@
 #### Learning Python 3: Official Resources
 
 - <sub>[Python Documentation](https://docs.python.org/3/)</sub>
+- <sub>[Python Glossary](https://docs.python.org/3/glossary.html)</sub>
 - <sub>[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)</sub>
 - <sub>[Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)</sub>
 - <sub>[Python Built-in Functions](https://docs.python.org/3/library/functions.html)</sub>
