@@ -19,7 +19,6 @@
 - [ ] <sub>[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)</sub>
 - [ ] <sub>[Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/)</sub>
 - [ ] <sub>[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/) ← (Reading in progress)</sub>
-- [x] <sub>[Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)</sub>
 - [ ] <sub>[日本100名城に行こう 公式スタンプ帳つき](https://www.amazon.co.jp/gp/product/4651201148/)</sub>
 - [ ] <sub>[山女日記](https://www.amazon.co.jp/%E5%B1%B1%E5%A5%B3%E6%97%A5%E8%A8%98-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%87%E5%BA%AB-%E6%B9%8A-%E3%81%8B%E3%81%AA%E3%81%88/dp/4344425162/)</sub>
 
@@ -28,6 +27,7 @@
 <details>
   <summary>📚 <b>Reading List Archive</b> (<b>Click here to <i>collapse</i> or <i>expand</i></b>👈) </summary>
 
+- [x] <sub>[Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)</sub>
 - [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
 - [x] <sub>[Python One-Liners: Write Concise, Eloquent Python Like a Professional](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505/)</sub>
 - [x] <sub>[Impractical Python Projects: Playful Programming Activities to Make You Smarter](https://www.amazon.com/Impractical-Python-Projects-Programming-Activities/dp/159327890X/)</sub>
