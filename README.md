@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3) [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>](https://ja.wikipedia.org/wiki/Nyan_Cat)
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][Stack Overflow-url] [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>](https://ja.wikipedia.org/wiki/Nyan_Cat)
 
 - 👋 Hi, I’m Colin (コリン) from US and currently studying in Japan.
 - 👀 I’m interested in **machine learning**.
@@ -83,3 +83,4 @@ KORINZ/KORINZ is a ✨ special ✨ repository!!!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/colin-z/
+[Stack Overflow-url]: https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3
