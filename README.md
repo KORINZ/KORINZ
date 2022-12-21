@@ -40,7 +40,7 @@
 
 ---
 
-#### Tools, Gaming Platforms, and Future Learning Plans
+#### Tools and Future Learning Plans
 
 🛠️ 
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
@@ -52,12 +52,12 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
-
+<!---
 🎮 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Switch](https://img.shields.io/badge/Switch-E60012?style=popout&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
 [![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout&logo=playstation&logoColor=white)](https://store.playstation.com/)
-
+-->
 🔮 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
