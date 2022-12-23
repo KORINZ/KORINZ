@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Colin (コリン) from US and currently studying in Japan.
 - 👀 I’m interested in **machine learning**.
-- 🌱 I’m currently learning [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+- 🌱 I’m currently learning and practicing [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 - 📫 How to reach me: `colinzhangme`at`gmail`
 - 🌐 Github Personal Website: [`https://korinz.github.io`](https://korinz.github.io) 🏗️
 
