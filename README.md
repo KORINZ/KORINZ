@@ -75,7 +75,7 @@
 
 ---
 
-<a href="https://stackexchange.com/users/26268922/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackexchange.com/users/flair/26268922.png" width="208" height="58" alt="profile for コリン on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for コリン on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackoverflow.com/users/flair/19939086.png?theme=dark" width="208" height="58" alt="profile for コリン at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for コリン at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
