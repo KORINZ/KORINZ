@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Colin (コリン) from US and currently studying in Japan ([経県値](https://uub.jp/j.cgi/IzehcaIzTnIfTenIippIiplr/%E3%82%B3%E3%83%AA%E3%83%B3)). ☃️
 - 👀 I’m interested in **machine learning**.
 - 🌱 I’m currently learning and practicing [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-- 📫 How to reach me: `colinzhangme`at`gmail`
+- 📫 `''.join([chr(x) for x in [107, 111, 114, 105, 110, 46, 106, 97, 112, 97, 110, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109]])`
 - 🌐 Github Personal Website: [`https://korinz.github.io`](https://korinz.github.io) 🏗️
 
 ---
