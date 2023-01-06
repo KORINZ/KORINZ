@@ -1,5 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<!---
 [![Stack Overflow][Stack_Overflow-shield]][Stack_Overflow-url]
+--->
 [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>][Nyan_Cat-url]
 
 - 👋 Hi, I’m Colin (コリン) from US and currently studying in Japan ([経県値](https://uub.jp/j.cgi/IzehcaIzTnIfTenIippIiplr/%E3%82%B3%E3%83%AA%E3%83%B3)). ☃️
@@ -74,9 +76,9 @@
 - <sub>[Python HOWTOs](https://docs.python.org/3/howto/index.html)</sub>
 
 ---
-
+<!---
 <a href="https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackoverflow.com/users/flair/19939086.png?theme=dark" width="208" height="58" alt="profile for コリン at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for コリン at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
+--->
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
 <!---
