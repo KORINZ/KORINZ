@@ -74,9 +74,9 @@
 - <sub>[Python HOWTOs](https://docs.python.org/3/howto/index.html)</sub>
 
 ---
-<!---
-<a href="https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackoverflow.com/users/flair/19939086.png?theme=dark" width="208" height="58" alt="profile for コリン at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for コリン at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
---->
+
+<a href="https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackoverflow.com/users/flair/19939086.png?theme=dark" width="208" height="58"></a>
+
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views)](https://github.com/jwenjian/visitor-badge)
 
 <!---
