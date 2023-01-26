@@ -63,6 +63,7 @@
 
 ---
 
+<!---
 #### Learning Python 3: Official Resources
 
 - <sub>[Python Documentation](https://docs.python.org/3/)</sub>
@@ -74,6 +75,8 @@
 - <sub>[Python HOWTOs](https://docs.python.org/3/howto/index.html)</sub>
 
 ---
+
+--->
 
 <a href="https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackoverflow.com/users/flair/19939086.png?theme=dark" width="208" height="58"></a>
 
