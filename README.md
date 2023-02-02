@@ -44,6 +44,8 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=popout&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=popout&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout&logo=latex&logoColor=white)](https://www.overleaf.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
