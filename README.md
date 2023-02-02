@@ -38,9 +38,7 @@
 
 ---
 
-#### Tools and Future Learning Plans
-
-🛠️ 
+#### 🛠️ Tools
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=popout&logo=visual-studio-code&logoColor=white)](https://azure.microsoft.com/en-us/products/visual-studio-code/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
@@ -58,7 +56,8 @@
 [![Switch](https://img.shields.io/badge/Switch-E60012?style=popout&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
 [![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout&logo=playstation&logoColor=white)](https://store.playstation.com/)
 -->
-🔮 
+
+#### 🔮 Future Learning Plans
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
