@@ -45,6 +45,7 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=popout&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=popout&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout&logo=latex&logoColor=white)](https://www.overleaf.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=popout&logo=git&logoColor=white)](https://git-scm.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
