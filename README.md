@@ -60,6 +60,7 @@
 -->
 
 #### 🔮 Future Learning Plans
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=popout&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
