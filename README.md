@@ -45,6 +45,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=popout&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=popout&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=popout&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=popout&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=popout&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
