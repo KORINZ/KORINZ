@@ -44,6 +44,7 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=popout&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=popout&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=popout&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=popout&logo=latex&logoColor=white)](https://www.overleaf.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=popout&logo=git&logoColor=white)](https://git-scm.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
