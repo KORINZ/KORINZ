@@ -57,6 +57,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
+[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=popout&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
 <!---
 🎮 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout&logo=steam&logoColor=white)](https://store.steampowered.com/)
