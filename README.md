@@ -44,7 +44,6 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=popout&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=popout&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=popout&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=popout&logo=scipy&logoColor=%white)](https://scipy.org/)
@@ -61,6 +60,7 @@
 [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=popout&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
 <!---
 🎮 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=popout&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Switch](https://img.shields.io/badge/Switch-E60012?style=popout&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
 [![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout&logo=playstation&logoColor=white)](https://store.playstation.com/)
