@@ -55,9 +55,11 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=popout&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=popout&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=popout&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
+
 <!---
 🎮 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=popout&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
