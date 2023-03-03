@@ -37,6 +37,10 @@
 </details>
 
 ---
+#### 🗣️
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=popout&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### 🛠️ Tools
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
@@ -47,8 +51,6 @@
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=popout&logo=scipy&logoColor=%white)](https://scipy.org/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=popout&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=popout&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=popout&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=popout&logo=selenium&logoColor=white)](https://www.selenium.dev/)
