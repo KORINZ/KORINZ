@@ -48,6 +48,7 @@
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=popout&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=popout&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=popout&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=popout&logo=scipy&logoColor=%white)](https://scipy.org/)
