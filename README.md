@@ -38,8 +38,8 @@
 
 ---
 #### 🗣️
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=popout&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### 🛠️ Tools
