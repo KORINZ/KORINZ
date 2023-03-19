@@ -59,6 +59,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=popout&logo=git&logoColor=white)](https://git-scm.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=popout&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=popout&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=popout&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=popout&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=popout&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=popout&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
