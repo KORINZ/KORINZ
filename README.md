@@ -37,14 +37,15 @@
 </details>
 
 ---
-#### 🗣️
+#### 🗣️ Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=popout&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### 📚
+#### 📚 Libraries
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=popout&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=popout&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=popout&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=popout&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
@@ -69,8 +70,7 @@
 [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=popout&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
 
 <!---
-🎮 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=popout&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+#### 🎮 Games
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=popout&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Switch](https://img.shields.io/badge/Switch-E60012?style=popout&logo=nintendo-switch&logoColor=white)](https://www.nintendo.co.jp/hardware/switch/)
 [![Playstation](https://img.shields.io/badge/Playstation-003791?style=popout&logo=playstation&logoColor=white)](https://store.playstation.com/)
