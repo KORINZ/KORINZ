@@ -79,6 +79,7 @@
 #### 🔮 Future Learning Plans
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=popout&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=popout&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=popout&logo=docker&logoColor=white)](https://www.docker.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
