@@ -37,6 +37,14 @@
 </details>
 
 ---
+
+### [NHK NEWS WEB EASY 日本語クイズ作成v1.9.3](https://github.com/KORINZ/nhk_news_web_easy_scraper)
+<p align="center">
+  <img width="800" alt="1" src="https://user-images.githubusercontent.com/111611023/230731185-6988b3ff-4ddd-456f-81e8-8db396819552.gif">
+</p>
+
+---
+
 #### 🗣️ Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=popout&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=popout&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -84,13 +92,6 @@
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=popout&logo=go&logoColor=white)](https://go.dev/)
-
----
-
-### [NHK NEWS WEB EASY 日本語クイズ作成v1.9.3](https://github.com/KORINZ/nhk_news_web_easy_scraper)
-<p align="center">
-  <img width="800" alt="1" src="https://user-images.githubusercontent.com/111611023/230731185-6988b3ff-4ddd-456f-81e8-8db396819552.gif">
-</p>
 
 ---
 
