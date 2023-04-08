@@ -10,7 +10,7 @@
 
 ---
 
-<details open>
+<details>
   <summary>📖 <b>Reading List</b> (<b>Click here to <i>collapse</i> or <i>expand</i></b>👈) </summary>
 
 - [ ] <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/)</sub>
