@@ -40,7 +40,9 @@
 
 ### [NHK NEWS WEB EASY 日本語クイズ作成v1.9.3](https://github.com/KORINZ/nhk_news_web_easy_scraper)
 <p align="center">
-  <img width="800" alt="1" src="https://user-images.githubusercontent.com/111611023/230731185-6988b3ff-4ddd-456f-81e8-8db396819552.gif">
+  <a href="https://github.com/KORINZ/nhk-news-scraper-gui#nhk-news-web-easy-scraper">
+    <img width="800" alt="1" src="https://user-images.githubusercontent.com/111611023/230731185-6988b3ff-4ddd-456f-81e8-8db396819552.gif">
+  </a>
 </p>
 
 ---
