@@ -11,7 +11,7 @@
 ---
 
 <details>
-  <summary>📖 <b>Reading List</b> (<b>Click here to <i>collapse</i> or <i>expand</i></b>👈) </summary>
+  <summary>📖 <b>Reading List</b></summary>
 
 - [ ] <sub>[Object-Oriented Python: Master OOP by Building Games and GUIs](https://www.amazon.com/Object-Oriented-Python-Master-Building-Games/dp/1718502060/)</sub>
 - [ ] <sub>[Real-World Python: A Hacker's Guide to Solving Problems with Code](https://www.amazon.com/gp/product/1718500629/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER/)</sub>
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary>🗃️ <b>Reading List Archive</b> (<b>Click here to <i>collapse</i> or <i>expand</i></b>👈) </summary>
+  <summary>🗃️ <b>Reading List Archive</b></summary>
 
 - [x] <sub>[Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/)</sub>
 - [x] <sub>[Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code](https://www.amazon.com/Python-Beyond-Basics-Al-Sweigart/dp/1593279663/)</sub>
