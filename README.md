@@ -60,8 +60,8 @@
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=popout&logo=scipy&logoColor=%white)](https://scipy.org/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=popout&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=popout&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=popout&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 
 #### 🛠️ Tools
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
@@ -87,9 +87,9 @@
 -->
 
 #### 🔮 Future Learning Plans
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=popout&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=popout&logo=docker&logoColor=white)](https://www.docker.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=popout&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=popout&logo=go&logoColor=white)](https://go.dev/)
