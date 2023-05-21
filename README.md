@@ -116,7 +116,9 @@
 
 <a href="https://stackoverflow.com/users/19939086/%e3%82%b3%e3%83%aa%e3%83%b3"><img src="https://stackoverflow.com/users/flair/19939086.png?theme=dark" width="208" height="58"></a>
 
+<!---
 <a href="https://github.com/jwenjian/visitor-badge"><img src="https://visitor-badge.glitch.me/badge?page_id=KORINZ.KORINZ&right_color=green&left_text=Page%20Views" alt="This vistor counter badge is experiencing downtime due to high traffic." title="The server is hosted on a free version of Glitch and may experience downtime during periods of high traffic."></a>
+--->
 
 <!---
 KORINZ/KORINZ is a ✨ special ✨ repository!!!
