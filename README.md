@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and practicing [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=popout&logo=docker&logoColor=white)](https://www.docker.com/)
 
 - 📫 `>>> "".join(chr(i) for i in (107,111,114,105,110,46,106,97,112,97,110,64,103,109,97,105,108,46,99,111,109))`
-- 🌐 [`https://korinz.github.io`](https://korinz.github.io) 🏗️
+- 🌐 [`https://korinz.github.io`](https://korinz.github.io)
 
 ---
 
