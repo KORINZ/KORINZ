@@ -61,6 +61,7 @@
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=popout&logo=Keras&logoColor=white)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=popout&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=popout&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=popout&logo=opencv&logoColor=white)](https://opencv.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=popout&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=popout&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=popout&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
