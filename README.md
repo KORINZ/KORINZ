@@ -66,6 +66,7 @@
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=popout&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=popout&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 [![Jinja](https://img.shields.io/badge/jinja-white.svg?style=popout&logo=jinja&logoColor=black)](https://palletsprojects.com/p/jinja/)
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=popout&logo=jquery&logoColor=white)](https://jquery.com/)
 
 #### 🛠️ Tools
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=popout&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
