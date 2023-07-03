@@ -98,6 +98,7 @@
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=popout&logo=swift&logoColor=white)](https://www.apple.com/swift/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=popout&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=popout&logo=go&logoColor=white)](https://go.dev/)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=popout&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ---
 
