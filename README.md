@@ -3,7 +3,7 @@
 [![Stack Overflow][Stack_Overflow-shield]][Stack_Overflow-url]
 [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>][Nyan_Cat-url]
 
-- 👋 Hello, World! I’m Colin (コリン) from the US, and currently studying in Japan ([経県値](https://uub.jp/j.cgi/IzehcaIzTnIfTenIippIiplr/%E3%82%B3%E3%83%AA%E3%83%B3)).
+- 👋 Hello, World! I’m Colin (コリン) from the US, and currently studying in Japan ([経県値](https://uub.jp/j.cgi/lIzehcaIzTnIfTenIipoIIipq/%E3%82%B3%E3%83%AA%E3%83%B3)).
 - 👀 I’m interested in **machine learning** and **deep learning**.
 - 🌱 I’m currently learning and practicing [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=popout&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=popout&logo=docker&logoColor=white)](https://www.docker.com/)
 - 📫 `print((lambda b: "".join(chr(int(b[i:i+8], 2)) for i in range(0, len(b), 8)))("011010110110111101110010011010010110111000101110011010100110000101110000011000010110111001000000011001110110110101100001011010010110110000101110011000110110111101101101"))`
