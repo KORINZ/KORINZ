@@ -2,7 +2,9 @@
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://korinz.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=npFc4MMAAAAJ&hl=en)
 [![Stack Overflow][Stack_Overflow-shield]][Stack_Overflow-url]
+<!---
 [<img src="https://user-images.githubusercontent.com/111611023/203343564-bcc8b467-78b1-4e7b-8011-ba2803c692de.gif" alt="drawing" width="70"/>][Nyan_Cat-url]
+-->
 
 - 👋 Hello, World! I’m Colin (コリン) from the US, and currently studying in Japan ([経県値](https://uub.jp/j.cgi/hcaIzTnIfTezTipoIIiplIzew/%E3%82%B3%E3%83%AA%E3%83%B3)).
 - 👀 I’m interested in **machine learning** and **deep learning**.
